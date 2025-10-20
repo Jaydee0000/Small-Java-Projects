@@ -5,7 +5,7 @@
 
 
 ### bstSearch.java :
-##### need
+
 ## text file that contains:
 <ArticleID>
 <ArticleTitle>
