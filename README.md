@@ -7,12 +7,14 @@
 ### bstSearch.java :
 
 ## text file that contains:
-<ArticleID>
-<ArticleTitle>
-<ArticleAuthor>
-<NumberOfKeywords>
-<Keyword1>
-<Keyword2>
+
+ArticleID
+ArticleTitle
+ArticleAuthor
+NumberOfKeywords
+Keyword1
+Keyword2
+(this would be one article, then to list a different article, you would have one line of buffer to then write the next one
 
 ## Explanation
 
