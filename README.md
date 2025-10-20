@@ -2,9 +2,50 @@
 
 ## These are java projects I have done as a UTD student that showcase certian skills I have built over my Undergrad
 
+## heapPerformance.java
+
+## Explanation
+This program measures and compares the performance and heap construction using two different methods:
+1. Repeated insertion
+2. Bottum-Up construction
+
+This program tests both methods using three different input types:
+1. Sorted input
+2. Reverse-ordered input
+3. Random input
+
+### Key concepts
+heap data structure
+Insertion-based heap building
+Build heap algorithm in O(n) complexity
+Performance testing
+Array manipulation
+Recursive heapify and sift-up operations
+
+### how to run
+
+bash: 
+
+compile:
+javac heapPerformance.java
+
+run: 
+java heapPerformance
+
+sample output:
+Sorted Input - Insertion Time: 7.932 ms
+Sorted Input - Build Heap Time: 0.561 ms
+Reverse-Ordered Input - Insertion Time: 12.103 ms
+Reverse-Ordered Input - Build Heap Time: 0.589 ms
+Random Input - Insertion Time: 8.776 ms
+Random Input - Build Heap Time: 0.505 ms
+(times vary based on hardware)
+
+this is my implementation of the file:
+https://onlinegdb.com/z27r-s3YcK
 
 
-### bstSearch.java :
+## bstSearch.java :
 
 ## text file that contains:
 
